@@ -1,7 +1,7 @@
 <%-- 
     Document   : allcategories
     Created on : May 31, 2018, 11:18:34 AM
-    Author     : matthew
+    Author     : Jackson
 --%>
 <%@page import="javafx.collections.ObservableList"%>
 <%@page import="models.evaluation_Model"%>
